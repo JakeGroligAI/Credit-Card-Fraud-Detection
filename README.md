@@ -45,9 +45,6 @@ The primary objectives of this project were to:
 
 ### 2. Exploratory Data Analysis (EDA)
 - Fraud vs non-fraud distribution analysis
-
-- ![Fraud Distribution](images/Distribution_Transaction_Amount.png)
-- 
 - Transaction amount analysis
 - Feature correlation analysis
 - Class imbalance visualization
