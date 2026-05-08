@@ -102,15 +102,15 @@ Models were evaluated using:
 
 ### Fraud vs Non-Fraud Distribution
 
-![Fraud Distribution](images/fraud_distribution.png)
+![Fraud Distribution](images/Distribution_Transaction_Amount.png)
 
 ### Feature Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+
 
 ### Model Performance Comparison
 
-![Model Comparison](images/model_comparison.png)
+
 
 ---
 
